@@ -469,6 +469,12 @@ const SvgIconToLogoEditor = () => {
 
         </Card>
       </section>
+
+      <div className='py-5'>
+        <a href="https://github.com/gergomiklos/icon2logo" className='text-xs text-muted-foreground underline' target="_blank" rel="noopener noreferrer">
+          Github
+        </a>
+      </div>
     </div>
   );
 };

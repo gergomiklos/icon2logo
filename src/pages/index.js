@@ -16,7 +16,7 @@ import {
   DropdownMenuItem,
   DropdownMenuSeparator,
   DropdownMenuTrigger,
-} from "@/components/ui/dropdown-menu"
+} from "@/components/ui/dropdown-menu";
 import { cn } from "@/lib/utils";
 
 
@@ -209,7 +209,7 @@ const SvgIconToLogoEditor = () => {
           <div className='text-center md:text-left text-xs text-muted-foreground md:max-w-xs'>
             <Balancer>
               this is the only logo editor tool you'll ever need.
-              design beautiful logos 1,000x faster and cheaper.
+              fast. free. beautiful. simple.
             </Balancer>
           </div>
         </div>
